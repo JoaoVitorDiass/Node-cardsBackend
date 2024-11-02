@@ -1,0 +1,3 @@
+MONGO_URI=mongodb://user:password@ipaddress:port/?authSource=admin
+
+PORT=3000
