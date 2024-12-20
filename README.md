@@ -1,7 +1,8 @@
 
 # Node-cardsBackend
 
-Descrição curta do que o projeto faz.
+Api feita utilizando node + Express para gerenciar a dos dados de cards, permitindo cadastrar, alterar, 
+pesquisar e apagar os “cards” utilizando MongoDB.
 
 ## Instalação
 
